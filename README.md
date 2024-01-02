@@ -16,10 +16,12 @@
   * Play soccer (Robocup SSL) (2010-2015)
   * Collect Tennis balls ([Vive Tennis](https://www.vivetennis.com)) (2021-2023)
 
-- 📠 How to reach me:
+- 📠 My profiles on internet:
    * Linkedin: https://www.linkedin.com/in/javad-amirian/
    * Xwitter: https://www.x.com/AmirianJavad
-
+   * G-Scholar: https://scholar.google.com/citations?user=N28lgyMAAAAJ
+   * https://people.rennes.inria.fr/Javad.Amirian
+   
   
 - 🎮 I am also learning to play the piano and enjoy playing tennis in my free times.
 
