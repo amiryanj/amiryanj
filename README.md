@@ -1,5 +1,5 @@
 ### My name is Javad, et je m'appelle the Father of Robots :)
-
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 - 🔭 Right now (2023-2024) I’m a postdoc researcher:
   * at [Institute of Intelligent Systems and Robotics (ISIR)](https://www.isir.upmc.fr/) at Sorbonne University
   * where I work on **Social Robot Navigation**
