@@ -11,9 +11,9 @@
   * at French National Institute for Research in Computer Science and Automation (**INRIA**)
   * You can find some of the source codes for this research here: https://github.com/crowdbotp
 
-- 🤖 I've been working on various robotics and AI projects since 2009 and have been a proud father to many small robots 😄
-  * Playing soccer (Robocup SSL) (2010-2015)
+- 🤖 I've been working on various robotics and AI projects since 2009 and have been a proud father to many small mobile robots 😄
   * Collecting Tennis balls ([Vive Tennis](https://www.vivetennis.com)) (2021-2023)
+  * Playing soccer 5v5 (Robocup SSL) (2010-2015)
   * Following simple lines (2008-2009)
 
 - 📠 Profile / Social Media:
