@@ -1,13 +1,12 @@
 ### Hey! My name is Javad Amirian, and here is a brief overview of my profile:
-- 🔭 Right now (2023-2024) I’m a postdoc researcher:
+- 🔭 Postdoc research (2023-2024):
   * at [Institute of Intelligent Systems and Robotics (ISIR)](https://www.isir.upmc.fr) lab of **Sorbonne** University
   * I work on **Social Robot Navigation**
-  * integrating **LLMs / VLMs** in Human-Robot Interaction (**HRI**) scenarios,
-  * and learn about **Multi-Agent Reinforcement Learning (MARL)**.
+  * integrating **LLMs / VLMs** in Human-Robot Interaction (**HRI**) scenarios.
 
-- 🎓 I completed my PhD (2018-2021):
+- 🎓 My PhD (2018-2021):
   * on **Human Motion Prediction** and **Crowd Simulation** for the navigation of robots
-  * It was part of an -almost- big European H2020 research project, called **CrowdBot**
+  * It was part of a -quite- big European H2020 research project, called **CrowdBot**
   * at French National Institute for Research in Computer Science and Automation (**INRIA**)
   * You can find some of the source codes for this research here: https://github.com/crowdbotp
 
