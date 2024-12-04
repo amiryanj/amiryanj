@@ -12,7 +12,7 @@
   * You can find some of the source codes for this research here: https://github.com/crowdbotp
 
 - 🤖 I've been working on various robotics and AI projects since 2009 and have been a proud father to many robots 😄
-  * Collecting Tennis balls ([Vive Tennis](https://www.vivetennis.com)) (2021-2023)
+  * Collecting Tennis balls ([Vive Tennis](https://www.vivetennis.com)) (2021-2024)
   * Playing soccer 5v5 (Robocup SSL) (2010-2015)
   * Following simple lines (2008-2009)
 
