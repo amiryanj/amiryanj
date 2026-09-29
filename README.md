@@ -1,6 +1,9 @@
 ### Hey! My name is Javad Amirian, and here is a brief overview of my profile:
 
-- 🔬 Currently (Stage11, 2024–): AI Research Scientist in Paris: multi-view calibration, 3D reconstruction, Gaussian splatting.
+
+- 🦾 Starting something new (2026-...)
+
+- 🔬 At Stage11 (2024–2026): AI Research Scientist in Paris: multi-view calibration, 3D reconstruction, Gaussian splatting.
 
 - 🔭 Postdoc research (2023–2024):
   * at the [Institute of Intelligent Systems and Robotics (ISIR)](https://www.isir.upmc.fr) lab of **Sorbonne University**
@@ -14,7 +17,7 @@
   * some source code here: https://github.com/crowdbotp
 
 - 🤖 I've been working on various robotics and AI projects since 2009 and have been a proud father to many robots 😄
-  * Collecting tennis balls — [Vive Tennis](https://www.vivetennis.com) (2021–2024)
+  * Collecting tennis balls — [Vive Tennis](https://www.vivetennis.ca) (2021–2024)
   * Playing soccer 5v5 (RoboCup SSL) (2010–2015)
   * Following simple lines (2008–2009)
 
